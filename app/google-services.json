@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491425300101",
+    "project_id": "testy-24096",
+    "storage_bucket": "testy-24096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491425300101:android:44db952bc9f2ba36b0f3ec",
+        "android_client_info": {
+          "package_name": "com.example.taskpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqVUh3RMuf6liVi2NeqxJkOZDdih09Vjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
